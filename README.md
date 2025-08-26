@@ -41,6 +41,6 @@ Detected ascending, descending, stable states by force sensor
 Flash LEDs accordingly.
 Buzz at the peak.
 
-###Through these two tasks, I learned how to:  
+Through these two tasks, I learned how to:  
 - Process and visualize real-world data in Python.  
 - Work with sensors, actuators, and logic on Arduino.  
