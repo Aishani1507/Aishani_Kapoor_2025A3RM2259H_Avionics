@@ -24,13 +24,13 @@ Libraries used :
 I worked on tinkercad for the Arduino project.
 
 Components Needed
-Arduino Uno
-Force sensor 
-3 LEDs (Green, Red, Yellow)
-3 Resistors (300Ω each → for LEDs)
-1 Piezo Buzzer
-1 Resistor (10kΩ for force sensor)
-Jumper wire- for connection
+1. Arduino Uno
+2. Force sensor
+3. 3 LEDs (Green, Red, Yellow)
+4. 3 Resistors (300Ω each → for LEDs)
+5. Piezo Buzzer
+6. 1 Resistor (10kΩ for force sensor)
+7. Jumper wire- for connection
 
 Researched about working and functioning of force sensor.
 Attached the components to their respective digital and analog pin.
