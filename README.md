@@ -17,7 +17,7 @@ Libraries used :
 1. Pandas
 2. numpy
 3. matplotlib
-4. . scipy.signa
+4. scipy.signa
 
 
 ## Task 2- Surprising Galactus!
