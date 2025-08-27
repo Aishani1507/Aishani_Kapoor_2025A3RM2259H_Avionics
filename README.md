@@ -21,7 +21,7 @@ Libraries used :
 
 
 ## Task 2- Surprising Galactus!
-I worked on tinkercad for the Arduino project.
+I worked on tinkercad for the Arduino project.The tutorial given gave a deeper insight on working of arduino and sensor.
 
 Components Needed
 1. Arduino Uno
@@ -43,4 +43,4 @@ Buzz at the peak.
 
 Through these two tasks, I learned how to:  
 - Process and visualize real-world data in Python.  
-- Work with sensors, actuators, and logic on Arduino.  
+- Work with sensors and logic on Arduino.  
