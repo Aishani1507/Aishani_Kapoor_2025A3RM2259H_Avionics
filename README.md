@@ -2,7 +2,7 @@
 This is my submission of task of Janus for Avionics. I have done both the task of Arudino and python.
 ## Task 1- Planning to surprise Galactus
 
-This task required brainstorming on how to plot and animate flight data. I followed the given tutorial to gain deeper knowledge of data visualization and animation in Python.
+This task required brainstorming on how to plot and animate flight data. I followed the given tutorial to learn more about data visualization and animation in Python.
 
 Features:
 1. Reads flight data from CSV files.
